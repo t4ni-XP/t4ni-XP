@@ -7,8 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a web engineer.
-- 📫 How to reach me: [Twitter - t4ni-XP](https://twitter.com/t4ni-XP)
+-  I'm a web engineer.
+-  My profile page: https://t4ni-xp.vercel.app/
 <br>
 
 
