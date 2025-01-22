@@ -23,8 +23,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4ni-XP&theme=radical&layout=compact" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t4ni-XP&theme=radical&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t4ni-XP&theme=radical&layout=compact&count_private=true" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=t4ni-XP&theme=radical&layout=compact&count_private=true" />
 </div>
 
 <div align="right">
